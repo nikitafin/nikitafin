@@ -5,7 +5,8 @@
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@de483e5f-5bfc-4028-8545-38097cf6f172&layout=compact&langs_count=5&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
  
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitafin&layout=compact&show_icons=true&theme=gruvbox&hide=jupyter%20notebook,html,PLpgSQL,TSQL,SQLPL" />
